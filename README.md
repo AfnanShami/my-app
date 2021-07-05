@@ -1,7 +1,7 @@
 <img width="823" alt="لقطة الشاشة 2021-07-06 023844" src="https://user-images.githubusercontent.com/85224185/124524325-52c76700-de03-11eb-8eea-c8de9c97a55f.png">
+.
 <img width="719" alt="لقطة الشاشة 2021-07-06 023839" src="https://user-images.githubusercontent.com/85224185/124524327-53f89400-de03-11eb-900f-b531b2456988.png">
-
-<img width="790" alt="لقطة الشاشة 2021-07-06 022945" src="https://user-images.githubusercontent.com/85224185/124524025-0c253d00-de02-11eb-9479-ced18f2c70e8.png">
+.
 <img width="790" alt="لقطة الشاشة 2021-07-06 022945" src="https://user-images.githubusercontent.com/85224185/124524025-0c253d00-de02-11eb-9479-ced18f2c70e8.png">
 
 # Getting Started with Create React App
